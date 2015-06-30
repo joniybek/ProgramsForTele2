@@ -1,0 +1,496 @@
+INFO : 2015-04-20 11:30:17,259  started to run with arguments['G:\\RevenueAssurance\\Monitoring\\Croatia\\CommentGatherer\\getComments.py']
+INFO : 2015-04-20 11:30:18,687 adding to list  ../../../Monitoring\LT Monitoring\0415_0907_RA_LT_Monitoring_by Hours.xlsm
+INFO : 2015-04-20 11:30:18,687 adding to list  ../../../Monitoring\LT Monitoring\0415_0925_RA_LT_Prepaid_Monitoring.xlsm
+INFO : 2015-04-20 11:30:18,688 adding to list  ../../../Monitoring\LT Monitoring\0415_1006_RA_LT_Postpaid_Monitoring.xlsm
+INFO : 2015-04-20 11:30:18,688 adding to list  ../../../Monitoring\LT Monitoring\RA_LT_Rated_Amounts.xlsm
+INFO : 2015-04-20 11:30:18,690 adding to list  ../../../Monitoring\LT Monitoring\~$0415_0925_RA_LT_Prepaid_Monitoring.xlsm
+INFO : 2015-04-20 11:30:18,694 adding to list  ../../../Monitoring\LV Monitoring\0415_0927_RA_LV_MOB_PrepaidMonitoring_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,696 adding to list  ../../../Monitoring\LV Monitoring\0415_1157_RA_LV_MOB_PostpaidMonitoring_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,711 adding to list  ../../../KPI Reports\Draft\Fixed\AU\0408_0755_RA_AU_FIX_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,723 adding to list  ../../../KPI Reports\Draft\Mobile\HR\2015_04\RA_HR_MOB_Postpaid_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,723 adding to list  ../../../KPI Reports\Draft\Mobile\HR\2015_04\RA_HR_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,734 adding to list  ../../../KPI Reports\Draft\Mobile\NO\March 2015\RA_NO_MOB_Postpaid_2015_03.xlsm
+INFO : 2015-04-20 11:30:18,740 adding to list  ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,740 adding to list  ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,742 adding to list  ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,743 adding to list  ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,743 adding to list  ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,743 adding to list  ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,744 adding to list  ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,759 adding to list  ../../../KPI Reports\Draft\Mobile\EE\April 2015\RA_EE_MOB_Postpaid_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,759 adding to list  ../../../KPI Reports\Draft\Mobile\EE\April 2015\RA_EE_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,760 adding to list  ../../../KPI Reports\Draft\Mobile\EE\April 2015\RA_EE_Monitoring (by Hours).xlsx
+INFO : 2015-04-20 11:30:18,770 adding to list  ../../../KPI Reports\Draft\Mobile\KZH\April2015\RA_KZ_MOB_Monitoring_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,809 adding to list  ../../../Monitoring\Sweden\0420_0937_RA_SE_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,809 adding to list  ../../../Monitoring\Sweden\0420_1026_RA_SE_MOB_PostpaidCABS_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,811 adding to list  ../../../Monitoring\Sweden\0420_1342_RA_SE_MOB_PostpaidSV_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,811 adding to list  ../../../Monitoring\Sweden\~$0420_0937_RA_SE_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,812 adding to list  ../../../Monitoring\Sweden\~$0420_1026_RA_SE_MOB_PostpaidCABS_2015_04.xlsm
+INFO : 2015-04-20 11:30:18,822 adding to list  ../../../Monitoring\Netherlands\Hourly\0415_0852_RA_NL_MOB_Prepaid_Traffic_By_Hour_APR_2015.xlsm
+INFO : 2015-04-20 11:30:18,823 adding to list  ../../../Monitoring\Netherlands\Hourly\0420_0847_RA_NL_CBS_PostPaid_Hourly_Trend_APR_2015.xlsm
+INFO : 2015-04-20 11:30:18,825 adding to list  ../../../Monitoring\Netherlands\Hourly\0420_0936_RA_NL_Postpaid_GPRS_Hourly_APR_2015.xlsm
+DEBUG : 2015-04-20 11:30:18,825 trying to open file ../../../Monitoring\LT Monitoring\0415_0907_RA_LT_Monitoring_by Hours.xlsm
+DEBUG : 2015-04-20 11:30:20,141 file opened successfully
+DEBUG : 2015-04-20 11:30:20,142 trying to open file ../../../Monitoring\LT Monitoring\0415_0925_RA_LT_Prepaid_Monitoring.xlsm
+DEBUG : 2015-04-20 11:30:21,132 file opened successfully
+DEBUG : 2015-04-20 11:30:21,542 trying to open file ../../../Monitoring\LT Monitoring\0415_1006_RA_LT_Postpaid_Monitoring.xlsm
+DEBUG : 2015-04-20 11:30:22,068 file opened successfully
+DEBUG : 2015-04-20 11:30:22,206 trying to open file ../../../Monitoring\LT Monitoring\RA_LT_Rated_Amounts.xlsm
+DEBUG : 2015-04-20 11:30:24,730 file opened successfully
+DEBUG : 2015-04-20 11:30:24,732 trying to open file ../../../Monitoring\LT Monitoring\~$0415_0925_RA_LT_Prepaid_Monitoring.xlsm
+WARNING : 2015-04-20 11:30:24,733 cannot open and search file with excel
+DEBUG : 2015-04-20 11:30:24,736 trying to open file ../../../Monitoring\LV Monitoring\0415_0927_RA_LV_MOB_PrepaidMonitoring_2015_04.xlsm
+DEBUG : 2015-04-20 11:30:27,381 file opened successfully
+DEBUG : 2015-04-20 11:30:27,799 trying to open file ../../../Monitoring\LV Monitoring\0415_1157_RA_LV_MOB_PostpaidMonitoring_2015_04.xlsm
+DEBUG : 2015-04-20 11:30:28,953 file opened successfully
+DEBUG : 2015-04-20 11:30:29,476 trying to open file ../../../KPI Reports\Draft\Fixed\AU\0408_0755_RA_AU_FIX_2015_04.xlsm
+DEBUG : 2015-04-20 11:30:31,753 file opened successfully
+DEBUG : 2015-04-20 11:30:31,792 trying to open file ../../../KPI Reports\Draft\Mobile\HR\2015_04\RA_HR_MOB_Postpaid_2015_04.xlsm
+DEBUG : 2015-04-20 11:30:37,944 file opened successfully
+DEBUG : 2015-04-20 11:30:38,292 trying to open file ../../../KPI Reports\Draft\Mobile\HR\2015_04\RA_HR_MOB_Prepaid_2015_04.xlsm
+DEBUG : 2015-04-20 11:30:39,644 file opened successfully
+DEBUG : 2015-04-20 11:30:39,980 trying to open file ../../../KPI Reports\Draft\Mobile\NO\March 2015\RA_NO_MOB_Postpaid_2015_03.xlsm
+DEBUG : 2015-04-20 11:30:43,145 file opened successfully
+DEBUG : 2015-04-20 11:30:43,315 trying to open file ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:30:46,338 file opened successfully
+DEBUG : 2015-04-20 11:30:46,582 trying to open file ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+DEBUG : 2015-04-20 11:30:48,190 file opened successfully
+DEBUG : 2015-04-20 11:30:48,200 trying to open file ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+DEBUG : 2015-04-20 11:30:55,575 file opened successfully
+DEBUG : 2015-04-20 11:30:55,648 trying to open file ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:30:58,767 file opened successfully
+DEBUG : 2015-04-20 11:30:58,926 trying to open file ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:30:58,927 cannot open and search file with excel
+DEBUG : 2015-04-20 11:30:59,164 trying to open file ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+WARNING : 2015-04-20 11:30:59,165 cannot open and search file with excel
+DEBUG : 2015-04-20 11:30:59,381 trying to open file ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:30:59,382 cannot open and search file with excel
+DEBUG : 2015-04-20 11:30:59,625 trying to open file ../../../KPI Reports\Draft\Mobile\EE\April 2015\RA_EE_MOB_Postpaid_2015_04.xlsm
+DEBUG : 2015-04-20 11:31:02,825 file opened successfully
+DEBUG : 2015-04-20 11:31:03,088 trying to open file ../../../KPI Reports\Draft\Mobile\EE\April 2015\RA_EE_MOB_Prepaid_2015_04.xlsm
+WARNING : 2015-04-20 11:31:04,750 cannot open and search file with excel
+INFO : 2015-04-20 11:34:05,726  started to run with arguments['G:\\RevenueAssurance\\Monitoring\\Croatia\\CommentGatherer\\getComments.py']
+INFO : 2015-04-20 11:34:06,177 adding to list  ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:34:06,177 adding to list  ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:34:06,178 adding to list  ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+INFO : 2015-04-20 11:34:06,180 adding to list  ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:34:06,180 adding to list  ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:34:06,180 adding to list  ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:34:06,181 adding to list  ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:34:06,183 trying to open file ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:34:09,253 file opened successfully
+DEBUG : 2015-04-20 11:34:09,513 trying to open file ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+DEBUG : 2015-04-20 11:34:11,226 file opened successfully
+DEBUG : 2015-04-20 11:34:11,236 trying to open file ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+DEBUG : 2015-04-20 11:34:18,384 file opened successfully
+DEBUG : 2015-04-20 11:34:18,529 trying to open file ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:34:21,585 file opened successfully
+DEBUG : 2015-04-20 11:34:21,746 trying to open file ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:34:21,747 cannot open and search file with excel
+DEBUG : 2015-04-20 11:34:21,970 trying to open file ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+WARNING : 2015-04-20 11:34:21,971 cannot open and search file with excel
+DEBUG : 2015-04-20 11:34:22,226 trying to open file ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:34:22,227 cannot open and search file with excel
+INFO : 2015-04-20 11:35:18,842  started to run with arguments['G:\\RevenueAssurance\\Monitoring\\Croatia\\CommentGatherer\\getComments.py']
+INFO : 2015-04-20 11:35:18,967 adding to list  ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:35:18,969 adding to list  ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:35:18,970 adding to list  ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+INFO : 2015-04-20 11:35:18,970 adding to list  ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:35:18,970 adding to list  ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:35:18,971 adding to list  ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:35:18,973 adding to list  ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:35:18,973 trying to open file ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:35:22,743 file opened successfully
+DEBUG : 2015-04-20 11:35:26,684 trying to open file ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+DEBUG : 2015-04-20 11:35:28,107 file opened successfully
+DEBUG : 2015-04-20 11:35:28,117 trying to open file ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+DEBUG : 2015-04-20 11:35:35,265 file opened successfully
+DEBUG : 2015-04-20 11:35:37,118 trying to open file ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:35:40,198 file opened successfully
+DEBUG : 2015-04-20 11:35:40,576 trying to open file ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:35:40,578 cannot open and search file with excel
+DEBUG : 2015-04-20 11:35:40,808 trying to open file ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+WARNING : 2015-04-20 11:35:40,809 cannot open and search file with excel
+DEBUG : 2015-04-20 11:35:40,990 trying to open file ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:35:40,993 cannot open and search file with excel
+INFO : 2015-04-20 11:36:33,720  started to run with arguments['G:\\RevenueAssurance\\Monitoring\\Croatia\\CommentGatherer\\getComments.py']
+INFO : 2015-04-20 11:36:33,855 adding to list  ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:36:33,855 adding to list  ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:36:33,857 adding to list  ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+INFO : 2015-04-20 11:36:33,858 adding to list  ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:36:33,858 adding to list  ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:36:33,858 adding to list  ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:36:33,859 adding to list  ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:36:33,861 trying to open file ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:36:36,931 file opened successfully
+DEBUG : 2015-04-20 11:36:37,088 trying to open file ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+DEBUG : 2015-04-20 11:36:38,505 file opened successfully
+DEBUG : 2015-04-20 11:36:38,515 trying to open file ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+DEBUG : 2015-04-20 11:36:45,924 file opened successfully
+DEBUG : 2015-04-20 11:36:46,007 trying to open file ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:36:49,006 file opened successfully
+DEBUG : 2015-04-20 11:36:49,142 trying to open file ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:36:49,144 cannot open and search file with excel
+DEBUG : 2015-04-20 11:36:49,331 trying to open file ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+WARNING : 2015-04-20 11:36:49,332 cannot open and search file with excel
+DEBUG : 2015-04-20 11:36:49,546 trying to open file ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:36:49,548 cannot open and search file with excel
+INFO : 2015-04-20 11:38:08,730  started to run with arguments['G:\\RevenueAssurance\\Monitoring\\Croatia\\CommentGatherer\\getComments.py']
+INFO : 2015-04-20 11:38:08,782 adding to list  ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:38:08,782 adding to list  ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:38:08,782 adding to list  ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+INFO : 2015-04-20 11:38:08,782 adding to list  ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:38:08,783 adding to list  ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:38:08,785 adding to list  ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:38:08,785 adding to list  ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:38:08,786 trying to open file ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:38:11,795 file opened successfully
+DEBUG : 2015-04-20 11:38:11,983 trying to open file ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+DEBUG : 2015-04-20 11:38:13,414 file opened successfully
+DEBUG : 2015-04-20 11:38:13,426 trying to open file ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+DEBUG : 2015-04-20 11:38:20,490 file opened successfully
+DEBUG : 2015-04-20 11:38:20,575 trying to open file ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:38:23,654 file opened successfully
+DEBUG : 2015-04-20 11:38:23,828 trying to open file ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:38:23,829 cannot open and search file with excel
+DEBUG : 2015-04-20 11:38:24,022 trying to open file ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+WARNING : 2015-04-20 11:38:24,023 cannot open and search file with excel
+DEBUG : 2015-04-20 11:38:24,249 trying to open file ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:38:24,250 cannot open and search file with excel
+INFO : 2015-04-20 11:40:42,227  started to run with arguments['G:\\RevenueAssurance\\Monitoring\\Croatia\\CommentGatherer\\getComments.py']
+INFO : 2015-04-20 11:40:42,364 adding to list  ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:40:42,364 adding to list  ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:40:42,365 adding to list  ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+INFO : 2015-04-20 11:40:42,365 adding to list  ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:40:42,367 adding to list  ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:40:42,367 adding to list  ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:40:42,368 adding to list  ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:40:42,368 trying to open file ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:40:45,433 file opened successfully
+DEBUG : 2015-04-20 11:40:45,621 trying to open file ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+DEBUG : 2015-04-20 11:40:47,033 file opened successfully
+DEBUG : 2015-04-20 11:40:47,046 trying to open file ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+DEBUG : 2015-04-20 11:40:54,112 file opened successfully
+DEBUG : 2015-04-20 11:40:54,273 trying to open file ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:40:57,246 file opened successfully
+DEBUG : 2015-04-20 11:40:57,392 trying to open file ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:40:57,394 cannot open and search file with excel
+DEBUG : 2015-04-20 11:40:57,555 trying to open file ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+WARNING : 2015-04-20 11:40:57,555 cannot open and search file with excel
+DEBUG : 2015-04-20 11:40:57,841 trying to open file ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:40:57,842 cannot open and search file with excel
+INFO : 2015-04-20 11:42:15,049  started to run with arguments['G:\\RevenueAssurance\\Monitoring\\Croatia\\CommentGatherer\\getComments.py']
+INFO : 2015-04-20 11:42:15,089 adding to list  ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:42:15,091 adding to list  ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:42:15,091 adding to list  ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+INFO : 2015-04-20 11:42:15,092 adding to list  ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:42:15,092 adding to list  ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:42:15,094 adding to list  ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:42:15,094 adding to list  ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:42:15,095 trying to open file ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:42:18,130 file opened successfully
+DEBUG : 2015-04-20 11:42:18,934 trying to open file ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+DEBUG : 2015-04-20 11:42:20,346 file opened successfully
+DEBUG : 2015-04-20 11:42:20,411 trying to open file ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+DEBUG : 2015-04-20 11:42:27,456 file opened successfully
+DEBUG : 2015-04-20 11:42:27,857 trying to open file ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:42:30,944 file opened successfully
+DEBUG : 2015-04-20 11:42:31,980 trying to open file ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:42:31,982 cannot open and search file with excel
+DEBUG : 2015-04-20 11:42:32,901 trying to open file ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+WARNING : 2015-04-20 11:42:32,903 cannot open and search file with excel
+DEBUG : 2015-04-20 11:42:33,756 trying to open file ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:42:33,759 cannot open and search file with excel
+INFO : 2015-04-20 11:48:54,436  started to run with arguments['G:\\RevenueAssurance\\Monitoring\\Croatia\\CommentGatherer\\getComments.py']
+INFO : 2015-04-20 11:48:54,572 adding to list  ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:48:54,573 adding to list  ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:48:54,573 adding to list  ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+INFO : 2015-04-20 11:48:54,575 adding to list  ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:48:54,575 adding to list  ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:48:54,576 adding to list  ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:48:54,576 adding to list  ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:48:54,578 trying to open file ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:48:57,601 file opened successfully
+DEBUG : 2015-04-20 11:48:58,384 trying to open file ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+DEBUG : 2015-04-20 11:49:00,030 file opened successfully
+DEBUG : 2015-04-20 11:49:02,536 trying to open file ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+DEBUG : 2015-04-20 11:49:09,641 file opened successfully
+DEBUG : 2015-04-20 11:49:10,026 trying to open file ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:49:13,000 file opened successfully
+DEBUG : 2015-04-20 11:49:13,868 trying to open file ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:49:13,869 cannot open and search file with excel
+DEBUG : 2015-04-20 11:49:14,743 trying to open file ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+WARNING : 2015-04-20 11:49:14,744 cannot open and search file with excel
+DEBUG : 2015-04-20 11:49:15,618 trying to open file ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:49:15,618 cannot open and search file with excel
+INFO : 2015-04-20 11:50:23,040  started to run with arguments['G:\\RevenueAssurance\\Monitoring\\Croatia\\CommentGatherer\\getComments.py']
+INFO : 2015-04-20 11:50:23,285 adding to list  ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:50:23,286 adding to list  ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:50:23,286 adding to list  ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+INFO : 2015-04-20 11:50:23,288 adding to list  ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:50:23,288 adding to list  ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-04-20 11:50:23,289 adding to list  ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-04-20 11:50:23,289 adding to list  ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:50:23,289 trying to open file ../../../Monitoring\Netherlands\0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:50:26,403 file opened successfully
+DEBUG : 2015-04-20 11:50:26,707 trying to open file ../../../Monitoring\Netherlands\0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+DEBUG : 2015-04-20 11:50:28,207 file opened successfully
+DEBUG : 2015-04-20 11:50:30,075 trying to open file ../../../Monitoring\Netherlands\0420_1405_RA_NL_MOB_Postpaid_CBS_2015_04.xlsm
+DEBUG : 2015-04-20 11:50:37,266 file opened successfully
+DEBUG : 2015-04-20 11:50:37,390 trying to open file ../../../Monitoring\Netherlands\updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-04-20 11:50:40,463 file opened successfully
+DEBUG : 2015-04-20 11:50:40,601 trying to open file ../../../Monitoring\Netherlands\~$0420_0000_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:50:40,604 cannot open and search file with excel
+DEBUG : 2015-04-20 11:50:40,773 trying to open file ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+WARNING : 2015-04-20 11:50:40,775 cannot open and search file with excel
+DEBUG : 2015-04-20 11:50:40,997 trying to open file ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-04-20 11:50:41,000 cannot open and search file with excel
+INFO : 2015-05-18 14:16:45,242  started to run with arguments['G:\\RevenueAssurance\\Monitoring\\Croatia\\CommentGatherer\\getComments.py']
+INFO : 2015-05-18 14:16:45,467 adding to list  ../../../Monitoring\LT Monitoring\0510_1010_RA_LT_Monitoring_by Hours.xlsm
+INFO : 2015-05-18 14:16:45,467 adding to list  ../../../Monitoring\LT Monitoring\0518_0959_RA_LT_Prepaid_Monitoring.xlsm
+INFO : 2015-05-18 14:16:45,467 adding to list  ../../../Monitoring\LT Monitoring\0518_1007_RA_LT_PostpaidSV_Monitoring.xlsm
+INFO : 2015-05-18 14:16:45,471 adding to list  ../../../Monitoring\LV Monitoring\0518_1010_RA_LV_MOB_PrepaidMonitoring.xlsm
+INFO : 2015-05-18 14:16:45,471 adding to list  ../../../Monitoring\LV Monitoring\0518_1017_RA_LV_MOB_PostpaidMonitoring.xlsm
+INFO : 2015-05-18 14:16:45,476 adding to list  ../../../KPI Reports\Draft\Fixed\AU\0518_0826_RA_AU_FIX_2015_05.xlsm
+INFO : 2015-05-18 14:16:45,484 adding to list  ../../../KPI Reports\Draft\Mobile\HR\2015_05\RA_HR_MOB_Postpaid_2015_05.xlsm
+INFO : 2015-05-18 14:16:45,486 adding to list  ../../../KPI Reports\Draft\Mobile\HR\2015_05\RA_HR_MOB_Prepaid_2015_05.xlsm
+INFO : 2015-05-18 14:16:45,490 adding to list  ../../../KPI Reports\Draft\Mobile\NO\May 2015\RA_NO_MOB_Postpaid_2015_05.xlsm
+INFO : 2015-05-18 14:16:45,493 adding to list  ../../../Monitoring\Netherlands\0427_1022_RA_NL_MOB_Postpaid_SV_2015_04 - Copy.xlsm
+INFO : 2015-05-18 14:16:45,494 adding to list  ../../../Monitoring\Netherlands\0515_0847_RA_NL_MOB_Prepaid_2015_05.xlsm
+INFO : 2015-05-18 14:16:45,494 adding to list  ../../../Monitoring\Netherlands\0518_1244_RA_NL_MOB_Postpaid_CBS_2015_05.xlsm
+INFO : 2015-05-18 14:16:45,496 adding to list  ../../../Monitoring\Netherlands\RA_NL_MOB_Postpaid_BUS_2015_05.xlsm
+INFO : 2015-05-18 14:16:45,496 adding to list  ../../../Monitoring\Netherlands\RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-05-18 14:16:45,496 adding to list  ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-05-18 14:16:45,496 adding to list  ../../../Monitoring\Netherlands\~$0518_1244_RA_NL_MOB_Postpaid_CBS_2015_05.xlsm
+INFO : 2015-05-18 14:16:45,497 adding to list  ../../../Monitoring\Netherlands\~$RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-05-18 14:16:45,497 adding to list  ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-05-18 14:16:45,502 adding to list  ../../../KPI Reports\Draft\Mobile\EE\May_2015\RA_EE_MOB_Postpaid_2015_05.xlsm
+INFO : 2015-05-18 14:16:45,503 adding to list  ../../../KPI Reports\Draft\Mobile\EE\May_2015\RA_EE_MOB_Prepaid_2015_05.xlsm
+INFO : 2015-05-18 14:16:45,506 adding to list  ../../../KPI Reports\Draft\Mobile\KZH\May 2015\RA_KZ_MOB_Monitoring_2015_05.xlsm
+INFO : 2015-05-18 14:16:45,506 adding to list  ../../../KPI Reports\Draft\Mobile\KZH\May 2015\~$RA_KZ_MOB_Monitoring_2015_05.xlsm
+INFO : 2015-05-18 14:16:45,510 adding to list  ../../../Monitoring\Sweden\0518_0834_RA_SE_MOB_Prepaid_2015_05.xlsm
+INFO : 2015-05-18 14:16:45,512 adding to list  ../../../Monitoring\Sweden\0518_0844_RA_SE_MOB_PostpaidCABS_2015_05.xlsm
+INFO : 2015-05-18 14:16:45,512 adding to list  ../../../Monitoring\Sweden\0518_0916_RA_SE_MOB_PostpaidSV_2015_05.xlsm
+INFO : 2015-05-18 14:16:45,513 adding to list  ../../../Monitoring\Sweden\~$0518_0834_RA_SE_MOB_Prepaid_2015_05.xlsm
+INFO : 2015-05-18 14:16:45,532 adding to list  ../../../Monitoring\Netherlands\Hourly\0513_0918_RA_NL_Postpaid_GPRS_Hourly_MAY_2015.xlsm
+INFO : 2015-05-18 14:16:45,533 adding to list  ../../../Monitoring\Netherlands\Hourly\0513_1147_RA_NL_CBS_PostPaid_Hourly_Trend_MAY_2015.xlsm
+INFO : 2015-05-18 14:16:45,533 adding to list  ../../../Monitoring\Netherlands\Hourly\0515_0849_RA_NL_SV_PostPaid_Hourly_Trend_MAY_2015.xlsm
+INFO : 2015-05-18 14:16:45,535 adding to list  ../../../Monitoring\Netherlands\Hourly\0515_0850_RA_NL_MOB_Prepaid_Traffic_By_Hour_MAY_2015.xlsm
+DEBUG : 2015-05-18 14:16:45,536 trying to open file ../../../Monitoring\LT Monitoring\0510_1010_RA_LT_Monitoring_by Hours.xlsm
+DEBUG : 2015-05-18 14:16:46,177 file opened successfully
+DEBUG : 2015-05-18 14:16:46,177 trying to open file ../../../Monitoring\LT Monitoring\0518_0959_RA_LT_Prepaid_Monitoring.xlsm
+DEBUG : 2015-05-18 14:16:47,211 file opened successfully
+DEBUG : 2015-05-18 14:16:47,384 trying to open file ../../../Monitoring\LT Monitoring\0518_1007_RA_LT_PostpaidSV_Monitoring.xlsm
+DEBUG : 2015-05-18 14:16:48,104 file opened successfully
+DEBUG : 2015-05-18 14:16:48,188 trying to open file ../../../Monitoring\LV Monitoring\0518_1010_RA_LV_MOB_PrepaidMonitoring.xlsm
+DEBUG : 2015-05-18 14:16:51,194 file opened successfully
+DEBUG : 2015-05-18 14:16:51,542 trying to open file ../../../Monitoring\LV Monitoring\0518_1017_RA_LV_MOB_PostpaidMonitoring.xlsm
+DEBUG : 2015-05-18 14:16:52,861 file opened successfully
+DEBUG : 2015-05-18 14:16:53,217 trying to open file ../../../KPI Reports\Draft\Fixed\AU\0518_0826_RA_AU_FIX_2015_05.xlsm
+DEBUG : 2015-05-18 14:16:55,615 file opened successfully
+DEBUG : 2015-05-18 14:16:55,651 trying to open file ../../../KPI Reports\Draft\Mobile\HR\2015_05\RA_HR_MOB_Postpaid_2015_05.xlsm
+DEBUG : 2015-05-18 14:17:02,273 file opened successfully
+DEBUG : 2015-05-18 14:17:03,147 trying to open file ../../../KPI Reports\Draft\Mobile\HR\2015_05\RA_HR_MOB_Prepaid_2015_05.xlsm
+DEBUG : 2015-05-18 14:17:04,845 file opened successfully
+DEBUG : 2015-05-18 14:17:05,302 trying to open file ../../../KPI Reports\Draft\Mobile\NO\May 2015\RA_NO_MOB_Postpaid_2015_05.xlsm
+DEBUG : 2015-05-18 14:17:08,536 file opened successfully
+DEBUG : 2015-05-18 14:17:08,766 trying to open file ../../../Monitoring\Netherlands\0427_1022_RA_NL_MOB_Postpaid_SV_2015_04 - Copy.xlsm
+DEBUG : 2015-05-18 14:17:12,865 file opened successfully
+DEBUG : 2015-05-18 14:17:13,115 starting thread (client mode): 0x8639668L
+INFO : 2015-05-18 14:17:13,140 Connected (version 2.0, client OpenSSH_4.3)
+DEBUG : 2015-05-18 14:17:13,150 kex algos:[u'diffie-hellman-group-exchange-sha1', u'diffie-hellman-group14-sha1', u'diffie-hellman-group1-sha1'] server key:[u'ssh-rsa', u'ssh-dss'] client encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] server encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] client mac:[u'hmac-md5', u'hmac-sha1', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] server mac:[u'hmac-md5', u'hmac-sha1', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] client compress:[u'none', u'zlib@openssh.com'] server compress:[u'none', u'zlib@openssh.com'] client lang:[u''] server lang:[u''] kex follows?False
+DEBUG : 2015-05-18 14:17:13,151 Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEBUG : 2015-05-18 14:17:13,151 using kex diffie-hellman-group14-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEBUG : 2015-05-18 14:17:13,216 Switch to new keys ...
+DEBUG : 2015-05-18 14:17:13,219 Adding ssh-rsa host key for 172.16.197.26: 032573f2538c0fabbd63a0dc9ba5d487
+DEBUG : 2015-05-18 14:17:13,272 userauth is OK
+INFO : 2015-05-18 14:17:13,286 Authentication (password) successful!
+DEBUG : 2015-05-18 14:17:13,618 trying to open file ../../../Monitoring\Netherlands\0515_0847_RA_NL_MOB_Prepaid_2015_05.xlsm
+DEBUG : 2015-05-18 14:17:15,635 file opened successfully
+DEBUG : 2015-05-18 14:17:15,709 trying to open file ../../../Monitoring\Netherlands\0518_1244_RA_NL_MOB_Postpaid_CBS_2015_05.xlsm
+DEBUG : 2015-05-18 14:17:23,799 file opened successfully
+DEBUG : 2015-05-18 14:17:23,938 trying to open file ../../../Monitoring\Netherlands\RA_NL_MOB_Postpaid_BUS_2015_05.xlsm
+DEBUG : 2015-05-18 14:17:26,750 file opened successfully
+DEBUG : 2015-05-18 14:17:27,539 trying to open file ../../../Monitoring\Netherlands\RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-05-18 14:17:31,155 file opened successfully
+DEBUG : 2015-05-18 14:17:31,161 trying to open file ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+WARNING : 2015-05-18 14:17:31,180 cannot open and search file with excel
+DEBUG : 2015-05-18 14:17:31,191 trying to open file ../../../Monitoring\Netherlands\~$0518_1244_RA_NL_MOB_Postpaid_CBS_2015_05.xlsm
+WARNING : 2015-05-18 14:17:31,194 cannot open and search file with excel
+DEBUG : 2015-05-18 14:17:31,203 trying to open file ../../../Monitoring\Netherlands\~$RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-05-18 14:17:31,204 cannot open and search file with excel
+DEBUG : 2015-05-18 14:17:31,217 trying to open file ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-05-18 14:17:31,221 cannot open and search file with excel
+DEBUG : 2015-05-18 14:17:31,233 trying to open file ../../../KPI Reports\Draft\Mobile\EE\May_2015\RA_EE_MOB_Postpaid_2015_05.xlsm
+DEBUG : 2015-05-18 14:17:34,440 file opened successfully
+DEBUG : 2015-05-18 14:17:35,019 trying to open file ../../../KPI Reports\Draft\Mobile\EE\May_2015\RA_EE_MOB_Prepaid_2015_05.xlsm
+DEBUG : 2015-05-18 14:17:51,232 file opened successfully
+DEBUG : 2015-05-18 14:17:51,533 trying to open file ../../../KPI Reports\Draft\Mobile\KZH\May 2015\RA_KZ_MOB_Monitoring_2015_05.xlsm
+DEBUG : 2015-05-18 14:17:52,506 file opened successfully
+DEBUG : 2015-05-18 14:17:52,516 trying to open file ../../../KPI Reports\Draft\Mobile\KZH\May 2015\~$RA_KZ_MOB_Monitoring_2015_05.xlsm
+WARNING : 2015-05-18 14:17:52,517 cannot open and search file with excel
+DEBUG : 2015-05-18 14:17:52,535 trying to open file ../../../Monitoring\Sweden\0518_0834_RA_SE_MOB_Prepaid_2015_05.xlsm
+DEBUG : 2015-05-18 14:17:53,765 file opened successfully
+DEBUG : 2015-05-18 14:17:53,938 trying to open file ../../../Monitoring\Sweden\0518_0844_RA_SE_MOB_PostpaidCABS_2015_05.xlsm
+DEBUG : 2015-05-18 14:17:55,313 file opened successfully
+DEBUG : 2015-05-18 14:17:55,601 trying to open file ../../../Monitoring\Sweden\0518_0916_RA_SE_MOB_PostpaidSV_2015_05.xlsm
+DEBUG : 2015-05-18 14:18:03,575 file opened successfully
+DEBUG : 2015-05-18 14:18:03,704 EOF in transport thread
+DEBUG : 2015-05-18 14:18:03,720 starting thread (client mode): 0x4f93eb8L
+INFO : 2015-05-18 14:18:03,739 Connected (version 2.0, client OpenSSH_4.3)
+DEBUG : 2015-05-18 14:18:03,749 kex algos:[u'diffie-hellman-group-exchange-sha1', u'diffie-hellman-group14-sha1', u'diffie-hellman-group1-sha1'] server key:[u'ssh-rsa', u'ssh-dss'] client encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] server encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] client mac:[u'hmac-md5', u'hmac-sha1', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] server mac:[u'hmac-md5', u'hmac-sha1', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] client compress:[u'none', u'zlib@openssh.com'] server compress:[u'none', u'zlib@openssh.com'] client lang:[u''] server lang:[u''] kex follows?False
+DEBUG : 2015-05-18 14:18:03,750 Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEBUG : 2015-05-18 14:18:03,750 using kex diffie-hellman-group14-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEBUG : 2015-05-18 14:18:03,815 Switch to new keys ...
+DEBUG : 2015-05-18 14:18:03,819 Adding ssh-rsa host key for 172.16.197.26: 032573f2538c0fabbd63a0dc9ba5d487
+DEBUG : 2015-05-18 14:18:03,871 userauth is OK
+INFO : 2015-05-18 14:18:03,887 Authentication (password) successful!
+DEBUG : 2015-05-18 14:18:04,048 trying to open file ../../../Monitoring\Sweden\~$0518_0834_RA_SE_MOB_Prepaid_2015_05.xlsm
+WARNING : 2015-05-18 14:18:04,049 cannot open and search file with excel
+DEBUG : 2015-05-18 14:18:04,187 EOF in transport thread
+DEBUG : 2015-05-18 14:18:04,200 starting thread (client mode): 0x4f93cc0L
+INFO : 2015-05-18 14:18:04,223 Connected (version 2.0, client OpenSSH_4.3)
+DEBUG : 2015-05-18 14:18:04,233 kex algos:[u'diffie-hellman-group-exchange-sha1', u'diffie-hellman-group14-sha1', u'diffie-hellman-group1-sha1'] server key:[u'ssh-rsa', u'ssh-dss'] client encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] server encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] client mac:[u'hmac-md5', u'hmac-sha1', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] server mac:[u'hmac-md5', u'hmac-sha1', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] client compress:[u'none', u'zlib@openssh.com'] server compress:[u'none', u'zlib@openssh.com'] client lang:[u''] server lang:[u''] kex follows?False
+DEBUG : 2015-05-18 14:18:04,234 Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEBUG : 2015-05-18 14:18:04,234 using kex diffie-hellman-group14-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEBUG : 2015-05-18 14:18:04,283 Switch to new keys ...
+DEBUG : 2015-05-18 14:18:04,299 Adding ssh-rsa host key for 172.16.197.26: 032573f2538c0fabbd63a0dc9ba5d487
+DEBUG : 2015-05-18 14:18:04,341 userauth is OK
+INFO : 2015-05-18 14:18:04,355 Authentication (password) successful!
+DEBUG : 2015-05-18 14:18:04,500 trying to open file ../../../Monitoring\Netherlands\Hourly\0513_0918_RA_NL_Postpaid_GPRS_Hourly_MAY_2015.xlsm
+DEBUG : 2015-05-18 14:18:10,009 file opened successfully
+DEBUG : 2015-05-18 14:18:10,069 trying to open file ../../../Monitoring\Netherlands\Hourly\0513_1147_RA_NL_CBS_PostPaid_Hourly_Trend_MAY_2015.xlsm
+DEBUG : 2015-05-18 14:18:11,115 file opened successfully
+DEBUG : 2015-05-18 14:18:11,151 trying to open file ../../../Monitoring\Netherlands\Hourly\0515_0849_RA_NL_SV_PostPaid_Hourly_Trend_MAY_2015.xlsm
+DEBUG : 2015-05-18 14:18:11,571 file opened successfully
+DEBUG : 2015-05-18 14:18:11,592 trying to open file ../../../Monitoring\Netherlands\Hourly\0515_0850_RA_NL_MOB_Prepaid_Traffic_By_Hour_MAY_2015.xlsm
+DEBUG : 2015-05-18 14:18:12,908 file opened successfully
+DEBUG : 2015-05-18 14:18:12,957 [chan 0] Max packet in: 32768 bytes
+DEBUG : 2015-05-18 14:18:12,967 [chan 0] Max packet out: 32768 bytes
+DEBUG : 2015-05-18 14:18:12,969 Secsh channel 0 opened.
+DEBUG : 2015-05-18 14:18:12,983 [chan 0] Sesch channel 0 request ok
+DEBUG : 2015-05-18 14:18:13,894 [chan 0] EOF received (0)
+DEBUG : 2015-05-18 14:18:13,897 [chan 0] EOF sent (0)
+INFO : 2015-05-18 14:20:56,253  started to run with arguments['G:\\RevenueAssurance\\Monitoring\\Croatia\\CommentGatherer\\getComments.py']
+INFO : 2015-05-18 14:20:56,477 adding to list  ../../../Monitoring\LT Monitoring\0510_1010_RA_LT_Monitoring_by Hours.xlsm
+INFO : 2015-05-18 14:20:56,479 adding to list  ../../../Monitoring\LT Monitoring\0518_0959_RA_LT_Prepaid_Monitoring.xlsm
+INFO : 2015-05-18 14:20:56,480 adding to list  ../../../Monitoring\LT Monitoring\0518_1007_RA_LT_PostpaidSV_Monitoring.xlsm
+INFO : 2015-05-18 14:20:56,489 adding to list  ../../../Monitoring\LV Monitoring\0518_1010_RA_LV_MOB_PrepaidMonitoring.xlsm
+INFO : 2015-05-18 14:20:56,490 adding to list  ../../../Monitoring\LV Monitoring\0518_1017_RA_LV_MOB_PostpaidMonitoring.xlsm
+INFO : 2015-05-18 14:20:56,497 adding to list  ../../../KPI Reports\Draft\Fixed\AU\0518_0826_RA_AU_FIX_2015_05.xlsm
+INFO : 2015-05-18 14:20:56,506 adding to list  ../../../KPI Reports\Draft\Mobile\HR\2015_05\RA_HR_MOB_Postpaid_2015_05.xlsm
+INFO : 2015-05-18 14:20:56,506 adding to list  ../../../KPI Reports\Draft\Mobile\HR\2015_05\RA_HR_MOB_Prepaid_2015_05.xlsm
+INFO : 2015-05-18 14:20:56,515 adding to list  ../../../KPI Reports\Draft\Mobile\NO\May 2015\RA_NO_MOB_Postpaid_2015_05.xlsm
+INFO : 2015-05-18 14:20:56,523 adding to list  ../../../Monitoring\Netherlands\0427_1022_RA_NL_MOB_Postpaid_SV_2015_04 - Copy.xlsm
+INFO : 2015-05-18 14:20:56,523 adding to list  ../../../Monitoring\Netherlands\0515_0847_RA_NL_MOB_Prepaid_2015_05.xlsm
+INFO : 2015-05-18 14:20:56,523 adding to list  ../../../Monitoring\Netherlands\0518_1244_RA_NL_MOB_Postpaid_CBS_2015_05.xlsm
+INFO : 2015-05-18 14:20:56,525 adding to list  ../../../Monitoring\Netherlands\RA_NL_MOB_Postpaid_BUS_2015_05.xlsm
+INFO : 2015-05-18 14:20:56,526 adding to list  ../../../Monitoring\Netherlands\RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-05-18 14:20:56,526 adding to list  ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+INFO : 2015-05-18 14:20:56,528 adding to list  ../../../Monitoring\Netherlands\~$0518_1244_RA_NL_MOB_Postpaid_CBS_2015_05.xlsm
+INFO : 2015-05-18 14:20:56,528 adding to list  ../../../Monitoring\Netherlands\~$RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-05-18 14:20:56,529 adding to list  ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+INFO : 2015-05-18 14:20:56,536 adding to list  ../../../KPI Reports\Draft\Mobile\EE\May_2015\RA_EE_MOB_Postpaid_2015_05.xlsm
+INFO : 2015-05-18 14:20:56,538 adding to list  ../../../KPI Reports\Draft\Mobile\EE\May_2015\RA_EE_MOB_Prepaid_2015_05.xlsm
+INFO : 2015-05-18 14:20:56,546 adding to list  ../../../KPI Reports\Draft\Mobile\KZH\May 2015\RA_KZ_MOB_Monitoring_2015_05.xlsm
+INFO : 2015-05-18 14:20:56,553 adding to list  ../../../Monitoring\Sweden\0518_0834_RA_SE_MOB_Prepaid_2015_05.xlsm
+INFO : 2015-05-18 14:20:56,555 adding to list  ../../../Monitoring\Sweden\0518_0844_RA_SE_MOB_PostpaidCABS_2015_05.xlsm
+INFO : 2015-05-18 14:20:56,555 adding to list  ../../../Monitoring\Sweden\0518_0916_RA_SE_MOB_PostpaidSV_2015_05.xlsm
+INFO : 2015-05-18 14:20:56,555 adding to list  ../../../Monitoring\Sweden\~$0518_0834_RA_SE_MOB_Prepaid_2015_05.xlsm
+INFO : 2015-05-18 14:20:56,571 adding to list  ../../../Monitoring\Netherlands\Hourly\0513_0918_RA_NL_Postpaid_GPRS_Hourly_MAY_2015.xlsm
+INFO : 2015-05-18 14:20:56,572 adding to list  ../../../Monitoring\Netherlands\Hourly\0513_1147_RA_NL_CBS_PostPaid_Hourly_Trend_MAY_2015.xlsm
+INFO : 2015-05-18 14:20:56,572 adding to list  ../../../Monitoring\Netherlands\Hourly\0515_0849_RA_NL_SV_PostPaid_Hourly_Trend_MAY_2015.xlsm
+INFO : 2015-05-18 14:20:56,573 adding to list  ../../../Monitoring\Netherlands\Hourly\0515_0850_RA_NL_MOB_Prepaid_Traffic_By_Hour_MAY_2015.xlsm
+DEBUG : 2015-05-18 14:20:56,575 trying to open file ../../../Monitoring\LT Monitoring\0510_1010_RA_LT_Monitoring_by Hours.xlsm
+DEBUG : 2015-05-18 14:20:57,118 file opened successfully
+DEBUG : 2015-05-18 14:20:57,119 trying to open file ../../../Monitoring\LT Monitoring\0518_0959_RA_LT_Prepaid_Monitoring.xlsm
+DEBUG : 2015-05-18 14:20:58,118 file opened successfully
+DEBUG : 2015-05-18 14:20:58,253 trying to open file ../../../Monitoring\LT Monitoring\0518_1007_RA_LT_PostpaidSV_Monitoring.xlsm
+DEBUG : 2015-05-18 14:20:58,930 file opened successfully
+DEBUG : 2015-05-18 14:20:59,007 trying to open file ../../../Monitoring\LV Monitoring\0518_1010_RA_LV_MOB_PrepaidMonitoring.xlsm
+DEBUG : 2015-05-18 14:21:01,710 file opened successfully
+DEBUG : 2015-05-18 14:21:02,046 trying to open file ../../../Monitoring\LV Monitoring\0518_1017_RA_LV_MOB_PostpaidMonitoring.xlsm
+DEBUG : 2015-05-18 14:21:03,259 file opened successfully
+DEBUG : 2015-05-18 14:21:03,589 trying to open file ../../../KPI Reports\Draft\Fixed\AU\0518_0826_RA_AU_FIX_2015_05.xlsm
+DEBUG : 2015-05-18 14:21:05,823 file opened successfully
+DEBUG : 2015-05-18 14:21:05,855 trying to open file ../../../KPI Reports\Draft\Mobile\HR\2015_05\RA_HR_MOB_Postpaid_2015_05.xlsm
+DEBUG : 2015-05-18 14:21:12,039 file opened successfully
+DEBUG : 2015-05-18 14:21:12,221 trying to open file ../../../KPI Reports\Draft\Mobile\HR\2015_05\RA_HR_MOB_Prepaid_2015_05.xlsm
+DEBUG : 2015-05-18 14:21:13,816 file opened successfully
+DEBUG : 2015-05-18 14:21:13,960 trying to open file ../../../KPI Reports\Draft\Mobile\NO\May 2015\RA_NO_MOB_Postpaid_2015_05.xlsm
+DEBUG : 2015-05-18 14:21:17,012 file opened successfully
+DEBUG : 2015-05-18 14:21:17,190 trying to open file ../../../Monitoring\Netherlands\0427_1022_RA_NL_MOB_Postpaid_SV_2015_04 - Copy.xlsm
+DEBUG : 2015-05-18 14:21:20,898 file opened successfully
+DEBUG : 2015-05-18 14:21:21,186 starting thread (client mode): 0x4c63080L
+INFO : 2015-05-18 14:21:21,210 Connected (version 2.0, client OpenSSH_4.3)
+DEBUG : 2015-05-18 14:21:21,220 kex algos:[u'diffie-hellman-group-exchange-sha1', u'diffie-hellman-group14-sha1', u'diffie-hellman-group1-sha1'] server key:[u'ssh-rsa', u'ssh-dss'] client encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] server encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] client mac:[u'hmac-md5', u'hmac-sha1', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] server mac:[u'hmac-md5', u'hmac-sha1', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] client compress:[u'none', u'zlib@openssh.com'] server compress:[u'none', u'zlib@openssh.com'] client lang:[u''] server lang:[u''] kex follows?False
+DEBUG : 2015-05-18 14:21:21,221 Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEBUG : 2015-05-18 14:21:21,221 using kex diffie-hellman-group14-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEBUG : 2015-05-18 14:21:21,296 Switch to new keys ...
+DEBUG : 2015-05-18 14:21:21,301 Adding ssh-rsa host key for 172.16.197.26: 032573f2538c0fabbd63a0dc9ba5d487
+DEBUG : 2015-05-18 14:21:21,352 userauth is OK
+INFO : 2015-05-18 14:21:21,367 Authentication (password) successful!
+DEBUG : 2015-05-18 14:21:21,690 trying to open file ../../../Monitoring\Netherlands\0515_0847_RA_NL_MOB_Prepaid_2015_05.xlsm
+DEBUG : 2015-05-18 14:21:23,325 file opened successfully
+DEBUG : 2015-05-18 14:21:23,392 trying to open file ../../../Monitoring\Netherlands\0518_1244_RA_NL_MOB_Postpaid_CBS_2015_05.xlsm
+DEBUG : 2015-05-18 14:21:31,032 file opened successfully
+DEBUG : 2015-05-18 14:21:31,109 trying to open file ../../../Monitoring\Netherlands\RA_NL_MOB_Postpaid_BUS_2015_05.xlsm
+DEBUG : 2015-05-18 14:21:34,230 file opened successfully
+DEBUG : 2015-05-18 14:21:35,141 trying to open file ../../../Monitoring\Netherlands\RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+DEBUG : 2015-05-18 14:21:39,010 file opened successfully
+DEBUG : 2015-05-18 14:21:39,016 trying to open file ../../../Monitoring\Netherlands\~$0420_0918_RA_NL_MOB_Prepaid_2015_04.xlsm
+WARNING : 2015-05-18 14:21:39,019 cannot open and search file with excel
+DEBUG : 2015-05-18 14:21:39,030 trying to open file ../../../Monitoring\Netherlands\~$0518_1244_RA_NL_MOB_Postpaid_CBS_2015_05.xlsm
+WARNING : 2015-05-18 14:21:39,032 cannot open and search file with excel
+DEBUG : 2015-05-18 14:21:39,043 trying to open file ../../../Monitoring\Netherlands\~$RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-05-18 14:21:39,048 cannot open and search file with excel
+DEBUG : 2015-05-18 14:21:39,059 trying to open file ../../../Monitoring\Netherlands\~$updating_RA_NL_MOB_Postpaid_SV_2015_04.xlsm
+WARNING : 2015-05-18 14:21:39,063 cannot open and search file with excel
+DEBUG : 2015-05-18 14:21:39,076 trying to open file ../../../KPI Reports\Draft\Mobile\EE\May_2015\RA_EE_MOB_Postpaid_2015_05.xlsm
+DEBUG : 2015-05-18 14:21:42,381 file opened successfully
+DEBUG : 2015-05-18 14:21:42,513 trying to open file ../../../KPI Reports\Draft\Mobile\EE\May_2015\RA_EE_MOB_Prepaid_2015_05.xlsm
+DEBUG : 2015-05-18 14:21:59,890 file opened successfully
+DEBUG : 2015-05-18 14:21:59,970 trying to open file ../../../KPI Reports\Draft\Mobile\KZH\May 2015\RA_KZ_MOB_Monitoring_2015_05.xlsm
+DEBUG : 2015-05-18 14:22:01,331 file opened successfully
+DEBUG : 2015-05-18 14:22:01,342 trying to open file ../../../Monitoring\Sweden\0518_0834_RA_SE_MOB_Prepaid_2015_05.xlsm
+DEBUG : 2015-05-18 14:22:03,095 file opened successfully
+DEBUG : 2015-05-18 14:22:03,252 trying to open file ../../../Monitoring\Sweden\0518_0844_RA_SE_MOB_PostpaidCABS_2015_05.xlsm
+DEBUG : 2015-05-18 14:22:05,127 file opened successfully
+DEBUG : 2015-05-18 14:22:05,469 trying to open file ../../../Monitoring\Sweden\0518_0916_RA_SE_MOB_PostpaidSV_2015_05.xlsm
+DEBUG : 2015-05-18 14:22:16,486 file opened successfully
+DEBUG : 2015-05-18 14:22:16,690 EOF in transport thread
+DEBUG : 2015-05-18 14:22:16,704 starting thread (client mode): 0x4d07278L
+INFO : 2015-05-18 14:22:16,727 Connected (version 2.0, client OpenSSH_4.3)
+DEBUG : 2015-05-18 14:22:16,737 kex algos:[u'diffie-hellman-group-exchange-sha1', u'diffie-hellman-group14-sha1', u'diffie-hellman-group1-sha1'] server key:[u'ssh-rsa', u'ssh-dss'] client encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] server encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] client mac:[u'hmac-md5', u'hmac-sha1', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] server mac:[u'hmac-md5', u'hmac-sha1', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] client compress:[u'none', u'zlib@openssh.com'] server compress:[u'none', u'zlib@openssh.com'] client lang:[u''] server lang:[u''] kex follows?False
+DEBUG : 2015-05-18 14:22:16,739 Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEBUG : 2015-05-18 14:22:16,740 using kex diffie-hellman-group14-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEBUG : 2015-05-18 14:22:16,798 Switch to new keys ...
+DEBUG : 2015-05-18 14:22:16,805 Adding ssh-rsa host key for 172.16.197.26: 032573f2538c0fabbd63a0dc9ba5d487
+DEBUG : 2015-05-18 14:22:16,855 userauth is OK
+INFO : 2015-05-18 14:22:16,871 Authentication (password) successful!
+DEBUG : 2015-05-18 14:22:17,092 trying to open file ../../../Monitoring\Sweden\~$0518_0834_RA_SE_MOB_Prepaid_2015_05.xlsm
+WARNING : 2015-05-18 14:22:17,095 cannot open and search file with excel
+DEBUG : 2015-05-18 14:22:17,371 EOF in transport thread
+DEBUG : 2015-05-18 14:22:17,430 starting thread (client mode): 0x4d07518L
+INFO : 2015-05-18 14:22:17,447 Connected (version 2.0, client OpenSSH_4.3)
+DEBUG : 2015-05-18 14:22:17,457 kex algos:[u'diffie-hellman-group-exchange-sha1', u'diffie-hellman-group14-sha1', u'diffie-hellman-group1-sha1'] server key:[u'ssh-rsa', u'ssh-dss'] client encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] server encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] client mac:[u'hmac-md5', u'hmac-sha1', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] server mac:[u'hmac-md5', u'hmac-sha1', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] client compress:[u'none', u'zlib@openssh.com'] server compress:[u'none', u'zlib@openssh.com'] client lang:[u''] server lang:[u''] kex follows?False
+DEBUG : 2015-05-18 14:22:17,457 Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEBUG : 2015-05-18 14:22:17,459 using kex diffie-hellman-group14-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEBUG : 2015-05-18 14:22:17,509 Switch to new keys ...
+DEBUG : 2015-05-18 14:22:17,529 Adding ssh-rsa host key for 172.16.197.26: 032573f2538c0fabbd63a0dc9ba5d487
+DEBUG : 2015-05-18 14:22:17,565 userauth is OK
+INFO : 2015-05-18 14:22:17,581 Authentication (password) successful!
+DEBUG : 2015-05-18 14:22:17,740 trying to open file ../../../Monitoring\Netherlands\Hourly\0513_0918_RA_NL_Postpaid_GPRS_Hourly_MAY_2015.xlsm
+DEBUG : 2015-05-18 14:22:26,190 file opened successfully
+DEBUG : 2015-05-18 14:22:26,270 trying to open file ../../../Monitoring\Netherlands\Hourly\0513_1147_RA_NL_CBS_PostPaid_Hourly_Trend_MAY_2015.xlsm
+DEBUG : 2015-05-18 14:22:27,302 file opened successfully
+DEBUG : 2015-05-18 14:22:27,329 trying to open file ../../../Monitoring\Netherlands\Hourly\0515_0849_RA_NL_SV_PostPaid_Hourly_Trend_MAY_2015.xlsm
+DEBUG : 2015-05-18 14:22:27,867 file opened successfully
+DEBUG : 2015-05-18 14:22:27,904 trying to open file ../../../Monitoring\Netherlands\Hourly\0515_0850_RA_NL_MOB_Prepaid_Traffic_By_Hour_MAY_2015.xlsm
+DEBUG : 2015-05-18 14:22:29,678 file opened successfully
+DEBUG : 2015-05-18 14:22:29,736 [chan 0] Max packet in: 32768 bytes
+DEBUG : 2015-05-18 14:22:29,766 [chan 0] Max packet out: 32768 bytes
+DEBUG : 2015-05-18 14:22:29,767 Secsh channel 0 opened.
+DEBUG : 2015-05-18 14:22:29,809 [chan 0] Sesch channel 0 request ok
+DEBUG : 2015-05-18 14:22:30,023 [chan 0] EOF received (0)
+DEBUG : 2015-05-18 14:22:30,023 [chan 0] EOF sent (0)
