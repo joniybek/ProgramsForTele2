@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+
+{% block content %}
+ <div id="containerModal" >
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Edit Container</h4>
+			</div>
+			
+			<div class="modal-body">
+					<div class="container">
+							<form action="{{ form_action }}" method="post" name="edit">
+    {{form.hidden_tag()}}
+	{% for error in form.errors%}
+
+    <br><span style="color: red;">Error in the field {{error}}</span>
+    {% endfor %}
+	
+  <div class="row"> 
+<div class="col-xs-6">
+		<label for="name">Name</label>
+		<input id="name" name="name" type="text" value="{{form.name.data}}" placeholder="" class="form-control">
+</div>
+</div>
+  <div class="row">   
+<div class="col-xs-6">
+		<label for="description">Description *</label>
+		<textarea  id="description" name="description" placeholder="" class="form-control" rows="2" >{{form.description.data}}</textarea>
+</div>
+</div>
+  <div class="row">   
+<div class="col-xs-6">
+		<label for="meta">Meta *</label>
+		<textarea  id="meta" name="meta" placeholder="" class="form-control" rows="2" >{{meta}}</textarea>
+</div>
+</div>
+  <div class="row">   
+<div class="col-xs-6">
+		<label for="g_config">Graph configuration</label>
+		<textarea  id="g_config" name="g_config" placeholder="" class="form-control" rows="4" >{{form.g_config.data}}</textarea>
+</div>
+</div>
+  <div class="row">   
+<div class="col-xs-6">
+		<label for="sql_script">SQL script</label>
+		<textarea  id="sql_script" name="sql_script" placeholder="" class="form-control" rows="10" >{{form.sql_script.data}}</textarea>
+</div>
+</div>
+  <div class="row">   
+<div class="col-xs-6">
+		<label for="update_time">Refresh at:</label>
+		<input id="update_time" name="update_time" type="text" value="" placeholder="HH:MM" class="form-control">
+</div>
+</div>
+
+</div>
+</div>
+<div class="modal-footer">
+<input type="hidden" name="previous_url" value="{{previous_url}}">
+<button type="submit" class="btn btn-primary btn-success" id="portform_btnsave" >Save</button>
+ 
+</form>
+<button onclick="location.href='{{ url_for('delete_container',id=id) }}'" class="btn btn-default">Delete</button>
+</div>
+
+</div>	
+</div>	
+</div>	
+ 
+ 
+ 
+ 
+
+
+
+{% endblock %}

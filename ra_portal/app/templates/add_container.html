@@ -1,0 +1,46 @@
+
+    <div id="myModal" class="modal fade">
+
+        <div class="modal-dialog">
+
+                <ul class="list-group col-lg-4" id="viewUl">
+
+			</ul>
+        
+        </div>
+
+    </div>
+
+<script type=text/javascript>
+    $(function drawFollow() {
+      $("button[target='_followBtn']").bind('click', function() {
+	  var container_id=$(this).val();
+        $.getJSON('/_get_user_views', {
+		
+		id: $(this).val()
+		}, function(data) {
+		var buffer="";
+		$.each(data, function(index, val){ 
+		 for(var i=0; i < val.length; i++){ 
+        var item = val[i];
+		//alert(item.isFollowing)
+		if(item.isFollowing===true){
+		buffer+=' <li class="list-group-item"><button class="btn btn-danger btn-xs remove_fields" onclick="followContainer( \'_unfollow_container\',\''+container_id+'\',\''+item.id+'\')">-</button><a href="">   '+item.name+'</a></li>';
+		}else{buffer+=' <li class="list-group-item"><button class="btn btn-default btn-xs btn-success" onclick="followContainer( \'_follow_container\',\''+container_id+'\',\''+item.id+'\')">+</button><a href="">  '+item.name+'</a></li>';}
+		}
+		$("#viewUl").html(buffer);
+		//alert(buffer)
+		});
+          //$("ul").html(data);
+		  $("#myModal").modal('show');
+        });
+        return false;
+      });
+    });
+
+	function followContainer(url, c_id, v_id) 
+{ 
+   $.get( url, { container_id: c_id , view_id: v_id} );
+   drawFollow() ;
+  }
+  </script>

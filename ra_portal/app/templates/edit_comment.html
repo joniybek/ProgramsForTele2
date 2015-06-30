@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Edit Comments</h2>
+<a href="{{ url_for('new_container') }}">Delete</a>
+<form action="" method="post" name="edit" enctype="multipart/form-data">
+    {{form.hidden_tag()}}
+	{% for error in form.errors%}
+
+    <br><span style="color: red;">Error in the field {{error}}</span>
+    {% endfor %}
+  <div class="row"> 
+<div class="col-xs-6">
+		<label for="happened">Happened</label>
+		<input id="happened" name="happened" type="text" value="" placeholder="yyyy-mm-dd" class="form-control">
+</div>
+</div>
+  <div class="row"> 
+<div class="col-xs-6">
+		<label for="incidentnum">Incident #</label>
+		<input id="incidentnum" name="incidentnum" type="text"  value="" placeholder="" class="form-control">
+</div>	
+</div>
+  <div class="row">   
+<div class="col-xs-6">
+		<label for="text">Your comment *</label>
+		<textarea  id="text" name="text" value="" placeholder="Type ..." class="form-control" rows="5" ></textarea>
+</div>
+</div>
+  <div class="checkbox">		
+		<input id="realf" name="realf" type="checkbox" value="" ><label for="realf">Real</label>
+	</div>	
+		           <div class="checkbox">
+		
+		<input id="monthlyf" name="monthlyf" type="checkbox" value="" ><label for="monthlyf">Monthly</label>
+	</div>
+		    <div class="checkbox">
+		
+		<input id="newf" name="newf" type="checkbox" value="" ><label for="newf">New</label>
+	</div>
+				           <div class="checkbox">
+		
+		<input id="freenotef" name="freenotef" type="checkbox" value="" ><label for="freenotef">FreeNote</label>
+	</div>
+		{% if fileUrl %}
+		<div class="row"><a href="{{ url_for('uploaded_file', filename = fileUrl ) }}">Download</a></div>
+		{% else %}
+		<div class="row"><input id="fileName" name="fileName" type="file"></div>
+		{% endif %}
+		
+		</tr>
+	</tbody>
+	</table>
+	<input type="hidden" name="previous_url" value="{{previous_url}}">
+	
+	<div class="row"><input type="submit" value="Save Changes"></div>
+ </form>
+	
+	
+	
+{% endblock %}

@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+<form action="" method="post">
+ {{form.hidden_tag()}}
+  <div class="row"> 
+<div class="col-xs-6">
+		<label for="name">Name #</label>
+		<input id="name" name="name" type="text"  value="" placeholder="" class="form-control">
+</div>	
+</div>
+
+  <div class="row">   
+<div class="col-xs-6">
+		<label for="desc">Description</label>
+		<textarea  id="desc" name="desc" value="" placeholder="Type ..." class="form-control" rows="5" ></textarea>
+</div>
+</div>
+<button type="submit" class="btn btn-primary btn-success" id="portform_btnsave" >Save</button>
+</form>
+{% endblock %}
