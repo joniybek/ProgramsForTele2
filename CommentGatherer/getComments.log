@@ -494,3 +494,28 @@ DEBUG : 2015-05-18 14:22:29,767 Secsh channel 0 opened.
 DEBUG : 2015-05-18 14:22:29,809 [chan 0] Sesch channel 0 request ok
 DEBUG : 2015-05-18 14:22:30,023 [chan 0] EOF received (0)
 DEBUG : 2015-05-18 14:22:30,023 [chan 0] EOF sent (0)
+INFO : 2015-07-05 00:44:14,592  started to run with arguments['D:\\scripts\\ProgramsForTele2\\CommentGatherer\\getComments.py']
+INFO : 2015-07-05 00:44:38,453  started to run with arguments['D:\\scripts\\ProgramsForTele2\\CommentGatherer\\getComments.py']
+INFO : 2015-07-05 00:44:51,483  started to run with arguments['D:\\scripts\\ProgramsForTele2\\CommentGatherer\\getComments.py']
+INFO : 2015-07-05 00:46:41,405  started to run with arguments['D:\\scripts\\ProgramsForTele2\\CommentGatherer\\getComments.py']
+INFO : 2015-07-05 00:52:26,515  started to run with arguments['D:/scripts/ProgramsForTele2/CommentGatherer/test_getComments.py']
+INFO : 2015-07-05 00:53:23,765  started to run with arguments['D:/scripts/ProgramsForTele2/CommentGatherer/test_getComments.py']
+INFO : 2015-07-05 00:53:43,187  started to run with arguments['D:\\scripts\\ProgramsForTele2\\CommentGatherer\\getComments.py']
+INFO : 2015-07-05 00:53:56,546  started to run with arguments['D:\\scripts\\ProgramsForTele2\\CommentGatherer\\getComments.py']
+INFO : 2015-07-05 00:55:43,125  started to run with arguments['D:\\scripts\\ProgramsForTele2\\CommentGatherer\\getComments.py']
+INFO : 2015-07-05 00:55:53,640  started to run with arguments['D:\\scripts\\ProgramsForTele2\\CommentGatherer\\getComments.py']
+INFO : 2015-07-05 00:56:29,608  started to run with arguments['D:\\scripts\\ProgramsForTele2\\CommentGatherer\\getComments.py']
+INFO : 2015-07-05 00:58:42,546  started to run with arguments['D:\\scripts\\ProgramsForTele2\\CommentGatherer\\getComments.py']
+INFO : 2015-07-05 00:59:20,890  started to run with arguments['D:\\scripts\\ProgramsForTele2\\CommentGatherer\\getComments.py']
+INFO : 2015-07-05 21:48:11,953  started to run with arguments['D:\\scripts\\ProgramsForTele2\\CommentGatherer\\getComments.py']
+INFO : 2015-07-05 21:48:18,421  started to run with arguments['D:\\scripts\\ProgramsForTele2\\CommentGatherer\\getComments.py']
+INFO : 2015-07-06 08:26:29,890  started to run with arguments['D:\\scripts\\ProgramsForTele2\\CommentGatherer\\test_getComments.py']
+WARNING : 2015-07-06 08:26:29,937 SQLite db  file not found, creating new one
+WARNING : 2015-07-06 08:26:30,046 Cannot read dirs.txt
+WARNING : 2015-07-06 08:26:30,092 Cannot execute send mail command in this machine
+WARNING : 2015-07-06 08:26:30,092 Cannot execute send mail command in this machine
+INFO : 2015-07-06 08:26:37,515  started to run with arguments['D:\\scripts\\ProgramsForTele2\\CommentGatherer\\test_getComments.py']
+WARNING : 2015-07-06 08:26:37,530 SQLite db  file not found, creating new one
+WARNING : 2015-07-06 08:26:37,546 Cannot read dirs.txt
+WARNING : 2015-07-06 08:26:37,562 Cannot execute send mail command in this machine
+WARNING : 2015-07-06 08:26:37,578 Cannot execute send mail command in this machine
