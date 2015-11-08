@@ -1,0 +1,19 @@
+	{% extends "base.html" %}
+{% block content %}
+<script type="text/javascript"  src="{{ url_for('static', filename='dygraph-combined-dev.js') }}"> </script>  
+{% if search %}
+<h1>Search results for "{{name}}"</h1>
+{% else %}
+<h3>Controls for {{name.upper()}}</h3>
+{% endif %}
+
+
+
+	{% for d in data %}
+	 {% include 'control.html' %}
+
+    {% endfor %}
+
+	{% include 'add_container.html' %}
+
+{% endblock %}

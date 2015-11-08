@@ -1,0 +1,23 @@
+	{% extends "base.html" %}
+
+{% block content %}
+<h3>All views</h3>
+<div>
+				 <ul class="list-group col-lg-4">
+				{% for view, is_following in allViews %}
+				
+
+			  <li class="list-group-item"> 
+			  {% if not is_following %}
+			  <span class="badge"><a href="{{url_for('follow_view', id = view.id)}}">Follow</a></span> 
+			  {% else %}
+			  <span class="badge"><a href="{{url_for('unfollow_view', id = view.id)}}">Unfollow</a></span>   
+			  {% endif %}
+			  <a href="{{url_for('one_view', id = view.id)}}">{{view.name}}</a> </li>
+				{% endfor %}
+			</ul>
+</div>
+
+
+
+{% endblock %}

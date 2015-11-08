@@ -1,0 +1,36 @@
+<html>
+  <head>
+    {% if title %}
+    <title>{{title}} - workspace</title>
+    {% else %}
+      <title>RA workspace</title>
+    {% endif %}
+	<meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bootstrap.min.css') }}">
+
+	  </head>
+  <body>
+  
+  <hr>
+    {% with messages = get_flashed_messages() %}
+    {% if messages %}
+    <ul>
+    {% for message in messages %}
+        <li>{{ message }} </li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+    {% endwith %}
+	
+<h1>Sign In</h1>
+
+<form class="navbar-form navbar-center"  action="" method="post" name="login">  {{form.hidden_tag()}}
+<div class="input-group input-group-lg">
+  <span class="input-group-addon" id="sizing-addon1">@</span>
+  <input type="text" class="form-control" placeholder="Email" aria-describedby="sizing-addon1" id="openid" name="openid" >
+  	{% for error in form.errors.openid %}  <span style="color: red;">[{{error}}]</span>        {% endfor %}<br>  
+</div>
+<p><br><input type="checkbox" aria-label="..."  id="remember_me" name="remember_me">Remember me</p>
+<button type="submit" class="btn btn-default">Sign In</button>
+  </body>
+</html>

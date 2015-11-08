@@ -1,0 +1,98 @@
+
+<!-- extend base layout -->
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Search results for "{{query}}"</h1>
+		<script type="text/javascript"  src="{{ url_for('static', filename='dygraph-combined-dev.js') }}"> </script>  
+{% for d in data %}
+
+ <div class="row">
+  <div class="col-xs-12 col-md-8>
+<table class="table-hover">
+    <thead>
+      <tr>
+        <th class="text-center"><a href=""><h4>{{ d[0].name.upper() }}</h4></a></th>
+              </tr>
+			  
+			  <tr> <th>
+	<button class="btn btn-default btn-sm btn-success">Add</button>
+	 {% for x in d[0].meta.split(',') %}
+	 <a href="{{ url_for('search',search =x) }}"><i>{{ x }}</i></a>  
+	 {% endfor %}
+		</th> </tr>
+			  
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+    <div id="{{d[0].name }}" ></div>
+<script type="text/javascript">
+var w= Math.round(document.body.offsetWidth * 0.7);
+  g = new Dygraph(
+
+    // containing div
+    document.getElementById("{{d[0].name}}"),
+	
+{{ d[2]|safe}} 
+
+width: w,
+title: '{{d[0].name}}',
+legend: 'always',
+animatedZooms: true
+
+}
+  );
+  
+</script>
+		</td>
+		</tr>
+		</tbody>
+		
+		</table>
+
+  <hr>
+  </div>
+
+  
+  
+  
+  
+  
+  
+  <div class="col-xs-6 col-md-4">
+  
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Comment</th>
+        <th>Happened</th>
+		<th> </th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for c in d[1] %}
+	  <tr>
+        <td><a href="{{url_for('edit_comment',id=c.id)}}">{{c.text}}</a></td>
+        <td>{{c.happened}}</td>
+		<td><a href="{{ url_for('delete_comment',id=c.id) }}">x</a></td>
+      
+      </tr>
+	  {% endfor %}
+      <td><a href="{{url_for('new_comment',container_id=d[0].id)}}">New comment</a></td>
+    </tbody>
+  </table>
+  
+  
+  
+  </div>
+</div>
+
+
+
+
+
+
+    {% endfor %}
+
+{% endblock %}
